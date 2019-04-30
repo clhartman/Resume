@@ -1,0 +1,36 @@
+h2 {
+    color: #100349;
+}
+
+address {
+    background-color: #100349;
+    color: white;
+}
+address ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+address li {
+    padding: 10px 20px;
+}
+section>header {
+    color: #100349;
+}
+
+#skills ul {
+    column-count: 3;
+    list-style: none;
+}
+
+#skills li {
+    padding: 5px 0px;
+}
+
+.job {
+    background-color: rgba(104, 104, 253, 0.801);
+}
+
+main {
+    background-image: url('')
+}
